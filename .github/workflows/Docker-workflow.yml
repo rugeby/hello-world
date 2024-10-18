@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Echo Test
+      - name: Echo Test
       - run: echo This is a test
